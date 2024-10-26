@@ -1,0 +1,9 @@
+producto:{'Código': '5050', 'Nombre': 'jugo', 'Existencia': 2, 'Proveedor': 'juan', 'Precio': 5.0}
+producto:{'Código': '102030', 'Nombre': 'pepsi', 'Existencia': 5, 'Proveedor': 'Elman la bex', 'Precio': 5.0}
+producto:{'Código': '123', 'Nombre': 'Cereal', 'Existencia': '2', 'Proveedor': 'el campo', 'Precio': '20'}
+producto:{'Código': '124', 'Nombre': 'azucar ', 'Existencia': '3', 'Proveedor': 'caña real', 'Precio': '6'}
+producto:{'Código': '1234', 'Nombre': 'pan', 'Existencia': 2, 'Proveedor': 'Bimbo', 'Precio': 18.0}
+cliente:{'Código': '1234', 'Nombre': 'juan', 'Dirección': 'jalapa'}
+cliente:{'Código': '102030', 'Nombre': 'Moises', 'Dirección': 'Jalpatagua'}
+cliente:{'Código': '002', 'Nombre': 'lucas', 'Dirección': 'pinula'}
+venta:{'Código Producto': '1234', 'Código Cliente': '102030', 'Cantidad': 3, 'Total': 54.0}

@@ -1,0 +1,5 @@
+{'Código': '0002', 'Nombre': 'leche', 'Existencia': 'si', 'Proveedor': 'pino', 'Precio': '100'}
+{'Código Producto': '0002', 'Código Cliente': '00', 'Cantidad': 1, 'Total Venta': 100.0}
+{'Código': '1201', 'Nombre': 'papas', 'Existencia': '3', 'Proveedor': 'lays', 'Precio': '10'}
+{'Código': '12', 'Nombre': 'pan', 'Existencia': '2', 'Proveedor': 'bimbo', 'Precio': '35'}
+{'Código': '0097', 'Nombre': 'pepe', 'Dirección': 'colis'}
